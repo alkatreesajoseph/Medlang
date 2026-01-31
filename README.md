@@ -37,3 +37,9 @@ The user enters symptoms separated by commas.
 The program processes the input and compares it with stored medical rules.
 If all symptoms of a disease match the user input, the disease is suggested as a possible diagnosis.
 If no match is found, the program advises consulting a doctor.
+
+5. Sample Input
+fever, cough, headache
+6. Sample Output
+Possible Diagnosis:
+- Flu
