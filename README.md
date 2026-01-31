@@ -16,7 +16,7 @@ Alka Treesa Joseph
 MedLang is a simple, rule-based medical diagnosis assistance program developed using Python.
 The main aim of this project is to demonstrate how a domain-specific language (DSL) approach can be used to assist in basic medical decision-making based on patient symptoms.
 Instead of using complex medical software, MedLang allows symptoms and medical rules to be defined in an easy and understandable format. The system then matches user-provided symptoms with predefined rules to suggest possible diseases.
-⚠️ This program is for educational purposes only and is not a replacement for professional medical advice.
+
 2. Objective of the Program
 To design a simple medical rule system using Python
 To simulate a domain-specific language (MedLang) for healthcare
