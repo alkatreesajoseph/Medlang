@@ -1,12 +1,17 @@
 # Medlang
 This project introduces MedLang, a domain-specific language (DSL) designed to simplify the process of defining symptoms, medical rules, and diagnostic logic. MedLang enables users to write intuitive commands describing patient symptoms and conditional rules, which are interpreted by a Python-based rule engine to generate possible diagnoses. 
+
 MedLang: A Simple Medical Diagnosis Assistance Program
+
 Project Title
 MedLang – A Custom Coding Language for Medical Diagnosis Assistance
+
 Course
 B.Sc. (Hons.) Mathematics – IDC
+
 Author
 Alka Treesa Joseph
+
 1. Introduction
 MedLang is a simple, rule-based medical diagnosis assistance program developed using Python.
 The main aim of this project is to demonstrate how a domain-specific language (DSL) approach can be used to assist in basic medical decision-making based on patient symptoms.
